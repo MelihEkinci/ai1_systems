@@ -4,6 +4,8 @@
 
 This project is a part of the AI-1 Systems Project for the Winter Semester 2023/24 at Friedrich-Alexander-Universität Erlangen-Nürnberg, focusing on the application of agents in AI search within a simulated environment. The primary objective is to navigate a vacuum cleaner robot through the Wumpus cave, efficiently cleaning the area through a series of instructions.
 
+![Box Detection Example 1](screenshot.png) 
+
 ## Assignment Tasks
 
 The assignment comprises two main tasks:
