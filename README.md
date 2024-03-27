@@ -2,6 +2,13 @@
 
 This repository contains solutions for the AI-1 Systems Project assignments from the Winter Semester 2023/2024 at Friedrich-Alexander-Universität Erlangen-Nürnberg. The project covers various topics in artificial intelligence, including adversarial search, graph algorithms, planning, and agent-based systems.
 
+<p float="left">
+  <img src="Clean_Wumpus_Cave/screenshot.png" width="400" /> <!-- Adjust width as needed -->
+  <img src="Escape_Wumpus_Cave/screenshot2.png" width="400" /> <!-- Adjust width as needed -->
+  <img src="Find_Train_Connections/screenshot3.png" width="400" /> <!-- Adjust width as needed -->
+  <img src="Play_FAUhalma/screenshot4.png" width="400" /> <!-- Adjust width as needed -->
+</p>
+
 ## Table of Contents
 
 1. [FAUhalma Game Agent](#fauhalma-game-agent)
