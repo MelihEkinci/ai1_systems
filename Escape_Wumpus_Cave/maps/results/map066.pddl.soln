@@ -1,0 +1,8 @@
+(push p3_3 p3_4 p3_5 crate8)
+(push p3_4 p3_5 p3_6 crate8)
+(push p3_5 p3_6 p3_7 crate8)
+(push_two_halfcrates_into_empty_pit p3_6 p2_6 p1_6 p0_6 halfcrate14 halfcrate13 pit9)
+(push_halfcrate_into_half_filled_pit p2_6 p1_6 p0_6 halfcrate14 pit9)
+(move_walkable p1_6 p0_6)
+(move p0_6 p-1_6)
+; cost = 7 (unit cost)

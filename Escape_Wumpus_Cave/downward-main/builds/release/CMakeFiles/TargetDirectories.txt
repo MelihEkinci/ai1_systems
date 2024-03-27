@@ -1,0 +1,6 @@
+/Users/melihekinci/Documents/FAU_Courses/ThirdSemester/AI Project/assignment 1.5/assignment-main/downward-main/builds/release/CMakeFiles/translate.dir
+/Users/melihekinci/Documents/FAU_Courses/ThirdSemester/AI Project/assignment 1.5/assignment-main/downward-main/builds/release/CMakeFiles/edit_cache.dir
+/Users/melihekinci/Documents/FAU_Courses/ThirdSemester/AI Project/assignment 1.5/assignment-main/downward-main/builds/release/CMakeFiles/rebuild_cache.dir
+/Users/melihekinci/Documents/FAU_Courses/ThirdSemester/AI Project/assignment 1.5/assignment-main/downward-main/builds/release/search/CMakeFiles/downward.dir
+/Users/melihekinci/Documents/FAU_Courses/ThirdSemester/AI Project/assignment 1.5/assignment-main/downward-main/builds/release/search/CMakeFiles/edit_cache.dir
+/Users/melihekinci/Documents/FAU_Courses/ThirdSemester/AI Project/assignment 1.5/assignment-main/downward-main/builds/release/search/CMakeFiles/rebuild_cache.dir

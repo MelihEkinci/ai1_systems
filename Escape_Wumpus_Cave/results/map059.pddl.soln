@@ -1,0 +1,7 @@
+(push p6_3 p6_2 p6_1 crate9)
+(push_halfcrate p6_2 p5_2 p4_2 halfcrate14)
+(push_two_halfcrates p5_2 p4_2 p3_2 p2_2 halfcrate14 halfcrate13)
+(move p4_2 p4_1)
+(move p4_1 p4_0)
+(move p4_0 p4_-1)
+; cost = 6 (unit cost)
